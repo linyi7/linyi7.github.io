@@ -11,7 +11,7 @@ twitter_username: 林奕
 github_username:  林奕
 gplus_username:  林奕
 disqus_username: 林奕
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+profile_picture: ./src/img/blog-author.jpg
 
 # Build settings
 markdown: kramdown
