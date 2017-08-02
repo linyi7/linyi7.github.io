@@ -1,8 +1,8 @@
 # Site settings
 title: 欢迎来到林奕的博客小站
 description: "一个关于林奕的学习总结博客"
-baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "https://linyi7.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+baseurl: "https://linyi7.github.io/" 
+url: "https://linyi7.github.io" 
 # User settings
 username: 林奕的博客小站
 user_title: 林奕的学习心得博客
@@ -40,11 +40,11 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: 购物车订单删除结算页面
+    url: https://linyi7.github.io/
+  - name: 鼠标移动上去图案变化功能
+    url: https://linyi7.github.io/
+  - name: 无缝轮播功能
+    url: https://linyi7.github.io/
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
