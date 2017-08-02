@@ -41,10 +41,10 @@ links:
 # projects in header index
 projects:
   - name: 购物车订单删除结算页面
-    url: https://linyi7.github.io/
+    url: https://github.com/linyi7
   - name: 鼠标移动上去图案变化功能
-    url: https://linyi7.github.io/
+    url: https://github.com/linyi7
   - name: 无缝轮播功能
-    url: https://linyi7.github.io/
+    url: https://github.com/linyi7
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
