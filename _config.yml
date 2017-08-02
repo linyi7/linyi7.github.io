@@ -31,7 +31,7 @@ links:
   - title: 主页
     url: /
   - title: 我的文章
-    url: /posts
+    url: /_posts
   - title: 系列
     url: /series
   - title: 标签
