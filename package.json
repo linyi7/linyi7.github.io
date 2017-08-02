@@ -1,21 +1,21 @@
 {
   "name": "victorigortemplate",
   "version": "1.0.0",
-  "description": "My jekyll blog template.",
+  "description": "林奕的博客小站",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
   },
   "keywords": [
-    "frontend",
-    "blog",
-    "css",
-    "stylus",
-    "gulp",
-    "jekyll",
-    "js"
+    "web前端博客",
+    "web前端社区",
+    "web前端个人简历",
+    "前端简历",
+    "个人简历演示",
+    "web技术博客",
+    "个人技术分享站"
   ],
-  "author": "Victor Igor",
+  "author": "林奕",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^0.4.0",
