@@ -4,12 +4,12 @@ description: "一个关于林奕的学习总结博客"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "https://linyi7.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: 林奕
+username: 林奕的博客小站
 user_title: 林奕的学习心得博客
 email: 645732139@qq.com
 twitter_username: 林奕
-github_username:  林奕
-gplus_username:  林奕
+github_username:  linyi7
+gplus_username:  about
 disqus_username: 林奕
 profile_picture: http://img.zcool.cn/community/012a155543d6530000019ae983e492.jpg
 
@@ -28,15 +28,15 @@ compress_html:
 
 # Links to include in menu navigation
 links:
-  - title: 主页
+  - title: 首页
     url: /
   - title: 我的文章
     url: /posts
-  - title: 系列
+  - title: 分类
     url: /series
   - title: 标签
     url: /tags
-  - title: 关于我
+  - title: 我的项目
     url: /about
 # projects in header index
 projects:
