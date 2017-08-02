@@ -28,15 +28,15 @@ compress_html:
 
 # Links to include in menu navigation
 links:
-  - title: 主页
-    url: /https://linyi7.github.io/
-  - title: 我的文章
+  - title: home
+    url: /
+  - title: my posts
     url: /posts
-  - title: 系列
+  - title: series
     url: /series
-  - title:标签
+  - title: tags
     url: /tags
-  - title: 关于为
+  - title: about me
     url: /about
 # projects in header index
 projects:
