@@ -2,7 +2,7 @@
 title: 欢迎来到林奕的博客小站
 description: "一个关于林奕的学习总结博客"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "https://linyi7.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: 林奕
 user_title: 林奕的学习心得博客
